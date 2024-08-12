@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning fundamentals in computer science, involving new concepts to me like data structures, artificial intelligence, etc.
 
-- 📄 [Know about my experiences](https://github.com/tacohuevo?tab=repositories)
+- 📚 [Know about my experiences](https://github.com/tacohuevo?tab=repositories)
 
 - ⚡ Fun fact: **I love pupusas**
 
