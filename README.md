@@ -1,4 +1,4 @@
-<h1 align="center">Hola everyone 👋, I'm Joseph Hidalgo</h1>
+<h1 align="center">Hola 👋, I'm Joseph</h1>
 <h3 align="center">A passionate El Salvadorian coder and programmer</h3>
 
 - 🌱 I’m currently learning fundamentals in computer science, involving new concepts to me like data structures, artificial intelligence, etc.
