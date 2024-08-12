@@ -5,7 +5,7 @@
 
 - 📄 [Know about my experiences](https://github.com/tacohuevo?tab=repositories)
 
-- ⚡ Fun fact **I love pupusas**
+- ⚡ Fun fact: **I love pupusas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
